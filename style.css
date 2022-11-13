@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: salmon;
+}
+.time-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.time{
+    padding: 30px;
+    border: 1px solid black;
+    margin: 20px;
+    background-color: grey;
+    color: white;
+}
